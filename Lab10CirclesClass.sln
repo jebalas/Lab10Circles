@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab10CirclesClass", "Lab10CirclesClass.csproj", "{C521AE29-EBD7-447D-9456-D1E42F832EE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C521AE29-EBD7-447D-9456-D1E42F832EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C521AE29-EBD7-447D-9456-D1E42F832EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C521AE29-EBD7-447D-9456-D1E42F832EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C521AE29-EBD7-447D-9456-D1E42F832EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
